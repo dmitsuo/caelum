@@ -1,0 +1,2 @@
+- Parou no Cap. 8
+- Refazer o deploy do driver do MySQL no WildFly utilizando o método da apostila (tópico "7.4 DATASOURCE COM MYSQL", pág. 79)
